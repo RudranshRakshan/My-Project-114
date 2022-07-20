@@ -1,0 +1,10 @@
+body{
+    background-color: blanchedalmond ;
+    text-align: center;
+}
+
+h1{
+    font-weight: bold;
+    color: chartreuse;
+    border: 2px solid red;
+}
